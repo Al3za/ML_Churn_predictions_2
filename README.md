@@ -28,7 +28,6 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
     - [Usage](#usage)
-    - [Testing](#testing)
 
 ---
 
@@ -52,7 +51,7 @@ This project aims to streamline the development of effective churn prediction sy
 
 ### Prerequisites
 
-This project requires the following dependencies:
+This project requires the following dependencies (and an obalanced dataset):
 
 - **Programming Language:** JupyterNotebook
 
@@ -82,11 +81,7 @@ Run the project with:
 
 echo 'INSERT-RUN-COMMAND-HERE'
 
-### Testing
 
-Ml_churn_predictions_2 uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
 
 ---
 
