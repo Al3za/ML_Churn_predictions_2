@@ -73,13 +73,11 @@ Build ML_Churn_predictions_2 from the source and install dependencies:
 
 3. **Install the dependencies:**
 
-echo 'INSERT-INSTALL-COMMAND-HERE'
+!pip install: **pandas**, **numpy**, **matplotlib**, **sklearn**, **imbalanced-learn**
 
 ### Usage
 
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
+Run the project with click the button **run all** in VsCode, or just by run each block separately **(Ctrl + Enter)**
 
 
 
